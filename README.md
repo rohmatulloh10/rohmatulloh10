@@ -15,44 +15,10 @@ An enthusiastic and result-oriented **Information Systems Graduate** and **Full 
 
 ### 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Laravel" width="40" height="40" />
-      <br />Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="React" width="40" height="40" />
-      <br />React.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="PHP" width="40" height="40" />
-      <br />PHP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="MySQL" width="40" height="40" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Tailwind CSS" width="40" height="40" />
-      <br />Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Git" width="40" height="40" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://githubusercontent.com" alt="Python" width="40" height="40" />
-      <br />Python
-    </td>
-  </tr>
-</table>
+- 💻 **Frontend Development:** **React.js** | **JavaScript (ES6+)** | **Tailwind CSS** | **Bootstrap** | **Responsive Web Design**
+- ⚙️ **Backend Development:** **Laravel (MVC)** | **CodeIgniter** | **PHP** | **Python** | **RESTful API Development**
+- 🗄️ **Database & Tools:** **MySQL** | **SQLite** | **Git** | **GitHub (Version Control)** | **Agile/Scrum**
+- 🤝 **Soft Skills:** Leadership | Communication | Teamwork | Project & Time Management | Public Speaking
 
 ---
 
@@ -61,7 +27,7 @@ An enthusiastic and result-oriented **Information Systems Graduate** and **Full 
 - 🛠️ **[CRM-Distributor-ATK-Laravel-11](https://github.com)**
   An integrated Customer Relationship Management (CRM) system designed for stationery distributors built with Laravel 11.
 - 📱 **SAKATI (Final Project)**
-  A multi-platform Sales Ordering Mobile Application and Web Admin Panel developed for UD. Karya Sejati.
+  A multi-platform Sales Ordering Mobile Application (React Native) and Web Admin Panel developed for UD. Karya Sejati.
 
 ---
 
@@ -75,5 +41,6 @@ An enthusiastic and result-oriented **Information Systems Graduate** and **Full 
 ### 📫 Connect with Me
 
 - 📧 **Email:** rochmaed378@gmail.com
+- 🔗 **LinkedIn:** [://linkedin.com](https://linkedin.com)
 
 ---
